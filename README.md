@@ -1,4 +1,4 @@
-[<h1 align="center">Hi, I'm Alejandra Montejo 🌍🧑‍🔬</h1>
+<h1 align="center">Hi, I'm Alejandra Montejo 🌍🧑‍🔬</h1>
 <h3 align="center">Air Quality Researcher & Atmospheric Modeling Specialist 📡🌫️</h3>
 
 <p align="center">
@@ -40,30 +40,72 @@ I am a passionate researcher focused on atmospheric chemistry, air quality model
   </ul>
 </details>
 
-### 🛠️ Tools & Technologies
-<p align="center">
-    <kbd>
-      <kbd>Programming Languages</kbd>
-      <br>
-      <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="python" title="Python"/>
-      <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt="r" title="R"/>
-      <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" title="MATLAB"/>
-    </kbd>
-</p>
 
+### 🛠️ Tools & Technologies
+<table align="center">
+  <tr>
+    <td align="center">
+      <kbd>
+        <kbd>Programming Languages</kbd>
+        <br>
+        <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="python" title="Python"/>
+        <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt="r" title="R"/>
+        <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" title="MATLAB"/>
+      </kbd>
+    </td>
+    <td align="center">
+      <kbd>
+        <kbd>Database</kbd>
+        <br>
+        <img width="30px" src="https://www.unidata.ucar.edu/images/logos/netcdf-400x400.png" alt="netcdf" title="NetCDF"/>
+        <img width="30px" src="https://www.igismap.com/wp-content/uploads/2018/03/grib1.jpg" alt="grib" title="GRIB"/>
+        <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/e/e5/HDF_logo.png" alt="hdf4" title="HDF4"/>
+        <img width="30px" src="https://optics.ansys.com/hc/article_attachments/360048392634" alt="hdf5" title="HDF5"/>
+      </kbd>
+    </td>
+    <td align="center">
+      <kbd>
+        <kbd>Operating System</kbd>
+        <br>
+        <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="linux" title="Linux"/>
+        <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg" alt="windows" title="Windows"/>
+        <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/MacOS_logo.svg" alt="macos" title="macOS"/>
+      </kbd>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <kbd>
+        <kbd>Air Quality Models</kbd>
+        <br>
+        <img width="30px" src="https://zxdawn.github.io/images/sci-tech/2017-10/wrfchem_logo.png" alt="wrf-chem" title="WRF-Chem"/>
+        <img width="30px" src="https://www.weblakes.com/wp-content/uploads/2021/06/aermod_overview-1024x984.jpg" alt="aermod" title="AERMOD"/>
+      </kbd>
+    </td>
+    <td align="center">
+      <kbd>
+        <kbd>Tools</kbd>
+        <br>
+        <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="jupyter" title="Jupyter"/>
+        <img width="30px" src="https://entrenamiento-data-scientist-python.readthedocs.io/_images/anaconda_logo.png" alt="anaconda" title="Anaconda"/>
+        <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="vscode" title="VS Code"/>
+      </kbd>
+    </td>
+    <td align="center">
+      <kbd>
+        <kbd>Terminal Scripts</kbd>
+        <br>
+        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" title="Bash"/>
+        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" alt="vim" title="Vim"/>
+      </kbd>
+    </td>
+  </tr>
+</table>
 <div align="center">
  <a href="https://www.linkedin.com/in/alejandramontejobarato" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a>
 <a href="mailto:maleja.montejo@gmail.com?subject=Hi%20Alejandra%20,%20nice%20to%20meet%20you!" target="_blank"><img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" /></a>
 </div>
-](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/blob/master/templates/10kartik.md?plain=1)
-<!--
-**Alemontejo/Alemontejo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+ collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
