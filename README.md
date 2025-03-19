@@ -1,6 +1,9 @@
 <h1 align="center">Hi, I'm Alejandra Montejo 🌍🧑‍🔬</h1>
 <h3 align="center">Air Quality Researcher & Atmospheric Modeling Specialist 📡🌫️</h3>
-
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=f1c232&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Alejandra+Montejo;Air+Quality+Researcher;Atmospheric+Modeling+Specialist;Citizen+Science+Advocate;Passionate+about+Climate+Change;WRF-Chem+and+Data+Analysis" 
+  alt="Typing SVG" />
+</a>
 <p align="center">
 
 👋 **Welcome to my GitHub Profile!**  
