@@ -67,9 +67,11 @@ I am a passionate researcher focused on atmospheric chemistry, air quality model
       <kbd>
         <kbd>Operating System</kbd>
         <br>
-        <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="linux" title="Linux"/>
-        <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg" alt="windows" title="Windows"/>
-        <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/MacOS_logo.svg" alt="macos" title="macOS"/>
+ <img width="30" src="https://user-images.githubusercontent.com/25181517/117269608-b7dcfb80-ae58-11eb-8e66-6cc8753553f0.png" alt="Android" title="Android"/>
+	    <img width="30" src="https://user-images.githubusercontent.com/25181517/121406611-a8246b80-c95e-11eb-9b11-b771486377f6.png" alt="iOS" title="iOS"/>
+	    <img width="30" src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" alt="Windows" title="Windows"/>
+	    <img width="30" src="https://user-images.githubusercontent.com/25181517/186884152-ae609cca-8cf1-4175-8d60-1ce1fa078ca2.png" alt="macOS" title="macOS"/>
+	    <img width="30" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" alt="Linux" title="Linux"/>
       </kbd>
     </td>
   </tr>
@@ -89,6 +91,8 @@ I am a passionate researcher focused on atmospheric chemistry, air quality model
         <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="jupyter" title="Jupyter"/>
         <img width="30px" src="https://entrenamiento-data-scientist-python.readthedocs.io/_images/anaconda_logo.png" alt="anaconda" title="Anaconda"/>
         <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="vscode" title="VS Code"/>
+         <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/1599px-LaTeX_logo.svg.png" alt="Latex" title="Latex"/>
+        <img width="30px" src="https://images.ctfassets.net/nrgyaltdicpt/2RrzN8eVNXo7w6kd7CBNrs/55d916a167fa65d94441cc215558182c/overleaf-logo-primary.jpg" alt="Overleaf" title="Overleaf"/>
       </kbd>
     </td>
     <td align="center">
@@ -105,10 +109,3 @@ I am a passionate researcher focused on atmospheric chemistry, air quality model
  <a href="https://www.linkedin.com/in/alejandramontejobarato" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a>
 <a href="mailto:maleja.montejo@gmail.com?subject=Hi%20Alejandra%20,%20nice%20to%20meet%20you!" target="_blank"><img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" /></a>
 </div>
- collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
