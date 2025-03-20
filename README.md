@@ -27,8 +27,8 @@ I am a passionate researcher focused on atmospheric chemistry, air quality model
     I am preparing for my PhD journey, focusing on atmospheric modeling and air quality research. Below is a preview of my research presentation:
   </p>
   <p align="center">
-    <a href="https://github.com/Alemontejo/Pursuing_PhD/blob/main/Research_Presentation.pdf">
-      <img src="https://github.com/Alemontejo/Pursuing_PhD/blob/main/Research_Preview.png" alt="PhD Research Presentation" width="500"/>
+    <a href="https://github.com/Alemontejo/Pursuing_PhD/blob/main/Atmospheric%20Modeling%20and%20Air%20Quality%20Research_%20A%20Pathway%20to%20Understanding%20Dust%20Impacts%20on%20Climate%20and%20Health.pdf">
+      <img src="https://github.com/Alemontejo/Pursuing_PhD/blob/main/Ppt_phd.png" alt="PhD Research Presentation" width="500"/>
     </a>
   </p>
   <p>
