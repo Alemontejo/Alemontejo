@@ -108,10 +108,10 @@ I am a passionate researcher focused on atmospheric chemistry, air quality model
         <kbd>Tools</kbd>
         <br>
         <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="jupyter" title="Jupyter"/>
-        <img width="30px" src="https://entrenamiento-data-scientist-python.readthedocs.io/_images/anaconda_logo.png" alt="anaconda" title="Anaconda"/>
+        <img width="50px" src="https://entrenamiento-data-scientist-python.readthedocs.io/_images/anaconda_logo.png" alt="anaconda" title="Anaconda"/>
         <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="vscode" title="VS Code"/>
-         <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/1599px-LaTeX_logo.svg.png" alt="Latex" title="Latex"/>
-        <img width="30px" src="https://images.ctfassets.net/nrgyaltdicpt/2RrzN8eVNXo7w6kd7CBNrs/55d916a167fa65d94441cc215558182c/overleaf-logo-primary.jpg" alt="Overleaf" title="Overleaf"/>
+         <img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/1599px-LaTeX_logo.svg.png" alt="Latex" title="Latex"/>
+        <img width="80px" src="https://images.ctfassets.net/nrgyaltdicpt/2RrzN8eVNXo7w6kd7CBNrs/55d916a167fa65d94441cc215558182c/overleaf-logo-primary.jpg" alt="Overleaf" title="Overleaf"/>
       </kbd>
     </td>
     <td align="center">
