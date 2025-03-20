@@ -21,9 +21,16 @@ I am a passionate researcher focused on atmospheric chemistry, air quality model
     Currently, I develop citizen monitoring strategies and collaborative sensor networks to enhance public engagement and communication on air quality issues.
   </p>
 </details>
-
 <details>
-  <summary>📊 <strong>Air Quality in Bogotá & Medellín</strong></summary>
+  <summary>📀 <strong>Pursuing PhD</strong></summary>
+  <p>
+    I am preparing for my PhD journey, focusing on atmospheric modeling and air quality research. Below is a preview of my research presentation:
+  </p>
+  <p align="center">
+    <a href="https://github.com/Alemontejo/Pursuing_PhD/blob/main/Research_Presentation.pdf">
+      <img src="https://github.com/Alemontejo/Pursuing_PhD/blob/main/Research_Preview.png" alt="PhD Research Presentation" width="500"/>
+    </a>
+  </p>
   <p>
     My experience working with air quality data in <strong>Bogotá and Medellín</strong> has shown how <strong>external contributions significantly influence local air pollution levels</strong>. The following graph illustrates monthly average PM2.5 and PM10 concentrations in both cities, highlighting seasonal variations and long-term trends:
   </p>
@@ -31,6 +38,15 @@ I am a passionate researcher focused on atmospheric chemistry, air quality model
     <img src="https://raw.githubusercontent.com/Alemontejo/Colombia_Air_quality/main/AQ_Bog_Med.jpeg" alt="Air Quality Graph" width="700" />
   </p>
 </details>
+### 🌍 Science Communication & Governance
+
+| Area | Description |
+|------|------------|
+| 🏙️ **Citizen Science** | Leading community-driven air quality monitoring projects |
+| 📊 **Policy & Governance** | Developing strategies for air pollution control |
+| 🎓 **Education & Outreach** | Designing workshops, educational materials, and science communication efforts |
+| 🤝 **Leadership & Collaboration** | Managing interdisciplinary research teams and stakeholder engagement |
+
 
 <details>
   <summary>📡 <strong>Research Interests</strong></summary>
